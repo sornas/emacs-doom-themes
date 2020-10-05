@@ -15,8 +15,8 @@ Can be an integer to determine the exact padding."
   "A port of VS Code's Monokai Pro"
 
   ;; name        gui       256       16
-  ((bg         '("#2D2A2E" nil       nil          ))
-   (bg-alt     '("#221F22" nil       nil          ))
+  ((bg         '("#0B151D" nil       nil          ))
+   (bg-alt     '("#0B151D" nil       nil          ))
    (base0      '("#19181A" "black"   "black"      ))
    (base1      '("#1B1B1B" "#1B1B1B"              ))
    (base2      '("#212122" "#212122"              ))
